@@ -6,7 +6,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ![Banner](assets/banner.svg)
-
+## Santiago Durazno
 ## Objetivo
 
 Crear una aplicación de **análisis exploratorio de datos** que funcione con distintos datasets en formato CSV o Excel.
